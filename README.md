@@ -94,12 +94,6 @@ Basta descomentar as linhas para gerar os arquivos `.png`.
 
 ## Observacoes importantes
 
-- Atualmente o caminho da planilha em `main.py` esta absoluto. Para facilitar execucao em qualquer maquina, prefira caminho relativo:
-
-```python
-pd.read_excel("residencias.xlsx")
-```
-
 - A funcao em `modelo.py` calcula MAE e RMSE, mas a exibicao esta comentada. Se quiser destacar metricas no portfolio, descomente o `print` correspondente.
 
 ## Melhorias futuras
