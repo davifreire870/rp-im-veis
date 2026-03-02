@@ -6,7 +6,7 @@ import pandas as pd
 
 #importando e limpando o DataFrame
 
-df_residencias = pd.read_excel('/home/davi-dos-santos-freire/VSCode/RP_imóveis/residencias.xlsx')
+df_residencias = pd.read_excel("residencias.xlsx")
 df_residencias = limpeza(df_residencias)
 
 #Definindo variáveis e executando função de regessão polinomial
