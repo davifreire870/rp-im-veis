@@ -4,7 +4,7 @@ Projeto de Machine Learning para estimar o preco de mercado de residencias com b
 
 ## Objetivo
 
-Construir um modelo de regressao polinomial para prever o preco de residencias e disponibilizar uma estimativa a partir de dados informados pelo usuario no terminal.
+Construir um modelo de regressao polinomial para estimular o preco de residencias e disponibilizar uma estimativa a partir de dados informados pelo usuario no terminal.
 
 ## Tecnologias e bibliotecas
 
